@@ -90,4 +90,4 @@ def datahandle():
               '2012-05-28','2012-07-04','2012-09-03','2012-11-12','2012-11-22','2012-12-25']
   for i in range(len(holidays)):
       electricity['day_type'][electricity.index.date==np.datetime64(holidays[i])] = 1
-      return electricity
+  return electricity
