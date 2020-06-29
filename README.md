@@ -1,4 +1,4 @@
 # predict-code
 for prictice
 
-write some code 
+write some codes
